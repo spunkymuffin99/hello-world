@@ -1,4 +1,4 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
 
-Is this how you edit?
+I am brand new to this whole github thing.  Looks neat.
