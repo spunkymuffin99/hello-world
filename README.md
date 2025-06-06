@@ -1,4 +1,4 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
 
-I am brand new to this whole github thing.  Looks neat.
+Do links work just by typing them?  My X account is https://x.com/BitcoinFinally
